@@ -24,4 +24,3 @@ Underscores (_): I learned that Python variable names like pak_studies need unde
 
 if/else: This helps the program "think" and decide which grade to show.
 
-This is a perfect, simple description for your GitHub. You've got this!
