@@ -11,7 +11,8 @@ def calculate_grades():
     pak_studies = float(input("Enter Pakistan Studies marks:"))
 
     # 2. Calculate Total and Percentage
-    total_obtained = math + physics + computer
+    total_obtained = math + physics + computer + urdu + english pak_studies 
+    
     total_possible =600  #Lets assume 100 marks for each subject
     percentage = (total_obtained / total_possible) * 100
     
